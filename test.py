@@ -1,6 +1,10 @@
 def func_1(a,b,c):
+    print(c)
     print(a)
 
+    
+    
+#comment
 def func_2(a,b,c):
     print(b)
 
