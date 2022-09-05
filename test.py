@@ -1,5 +1,6 @@
 def func_1(a,b,c):
-    print(a)
+    k = a + b + c
+    print(k)
 
 def func_2(a,b,c):
     print(b)
