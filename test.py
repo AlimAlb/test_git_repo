@@ -1,5 +1,7 @@
 def func_1(a,b,c):
 #hotfix
+#server branch changes
+#local changes on server nrabch
     k = a + b + c
     print(k)
 
