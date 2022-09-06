@@ -9,7 +9,7 @@ def func_1(a,b,c):
 def func_2(a,b,c):
     print(b)
 
-
+#working with tb
 def func_3(a,b,c):
     print(c)
 
